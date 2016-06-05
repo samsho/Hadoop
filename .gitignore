@@ -1,0 +1,5 @@
+/.idea
+*.class
+
+/Hadoop.iml
+/target
