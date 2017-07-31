@@ -26,8 +26,6 @@ import java.util.StringTokenizer;
  * @version V1.0
  */
 public class WordCount3 extends Configured implements Tool {
-
-
     private final static IntWritable one = new IntWritable();
     private final static IntWritable result = new IntWritable();
     private static Text word = new Text();
